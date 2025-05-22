@@ -1,4 +1,4 @@
-# Restaurant-Management-System
+# Restaurant Management System
 The provided C program implements a simple restaurant management system with file handling capabilities. It allows users to add, remove, display, search, sort, save, and load dishes in a menu. The program utilizes concepts of linear search, binary search, insertion sort, and file handling to manage the restaurant menu efficiently. 
 ## Design and Analysis of Algorithm (DAA) concepts used: 
 ### Linear Search: 
